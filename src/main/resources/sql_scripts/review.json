@@ -1,0 +1,7 @@
+[{"id":1, "comment":"God Bless Us", "course_id":1},
+ {"id":2, "comment":"God protect Us", "course_id":1},
+ {"id":3, "comment":"Spring Boot best", "course_id":2},
+ {"id":4, "comment":"Openstack is best ", "course_id":3},
+ {"id":5, "comment":"Kubernetes is best", "course_id":4},
+ {"id":6, "comment":"AWS is best ", "course_id":5},
+ {"id":7, "comment":"Azure is best", "course_id":6}]

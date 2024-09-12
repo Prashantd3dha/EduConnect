@@ -1,0 +1,10 @@
+[{"id":1, "first_name":"Raju", "last_name":"Rastogi", "email":"rajurastogi@student.com"},
+ {"id":2, "first_name":"S", "last_name":"2", "email":"s2@student.com"},
+ {"id":3, "first_name":"S", "last_name":"3", "email":"s3@student.com"},
+ {"id":4, "first_name":"S", "last_name":"4", "email":"s4@student.com"},
+ {"id":5, "first_name":"S", "last_name":"5", "email":"s5@student.com"},
+ {"id":6, "first_name":"S", "last_name":"6", "email":"s6@student.com"},
+ {"id":7, "first_name":"S", "last_name":"7", "email":"s7@student.com"},
+ {"id":8, "first_name":"S", "last_name":"8", "email":"s8@student.com"},
+ {"id":9, "first_name":"S", "last_name":"9", "email":"s9@student.com"},
+ {"id":10, "first_name":"S", "last_name":"10", "email":"S10@student.com"}]

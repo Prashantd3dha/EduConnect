@@ -1,0 +1,6 @@
+[{"id":1, "first_name":"Jai", "last_name":"Ganesh", "email":"jaiganesh@educonnect.com", "instructor_detail_id":1},
+ {"id":2, "first_name":"Instructor", "last_name":"2", "email":"instructor2@educonnect.com", "instructor_detail_id":2},
+ {"id":3, "first_name":"Instructor", "last_name":"3", "email":"instructor3@educonnect.com", "instructor_detail_id":3},
+ {"id":4, "first_name":"Instructor", "last_name":"4", "email":"instructor4@educonnect.com", "instructor_detail_id":4},
+ {"id":5, "first_name":"Instructor", "last_name":"5", "email":"instructor5@educonnect.com", "instructor_detail_id":5},
+ {"id":9, "first_name":"Prashant", "last_name":"Dedha", "email":"prashantdedha@educonnect.com", "instructor_detail_id":16}]

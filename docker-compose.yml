@@ -1,0 +1,19 @@
+services:
+  mysql:
+    container_name: mysql
+    build:
+      context: ./src/main/resources/sql_scripts
+    ports:
+      - "3306:3306"
+
+  spring-boot:
+    container_name: spring-boot
+    restart: on-failure
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+    environment:
+      MYSQL_HOST: mysql
+    depends_on:
+      - mysql

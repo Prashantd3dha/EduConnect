@@ -1,0 +1,7 @@
+[{"id":1, "title":"God", "instructor_id":1},
+ {"id":2, "title":"Spring Boot", "instructor_id":9},
+ {"id":3, "title":"OpenStack", "instructor_id":9},
+ {"id":4, "title":"Kubernetes", "instructor_id":2},
+ {"id":5, "title":"AWS", "instructor_id":3},
+ {"id":6, "title":"Azure", "instructor_id":4},
+ {"id":7, "title":"Course 7", "instructor_id":5}]
